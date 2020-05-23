@@ -13,7 +13,7 @@
   "devDependencies": {
     "react-scripts": "^3.3.0",
     "webpack": "^4.41.2",
-    "webpack-dev-server": "^3.9.0"
+    "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
     "babel-core": "^6.26.3",
